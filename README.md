@@ -5,6 +5,8 @@ A high-performance, local-first production suite for procedural anime storyboard
 <img width="1920" height="1020" alt="Screenshot 2026-06-18 000342" src="https://github.com/user-attachments/assets/0e6877b3-e5a0-4a88-ad4b-9ad99c1d4450" />
 
 <img width="1920" height="1020" alt="Screenshot 2026-06-17 234100" src="https://github.com/user-attachments/assets/6879d8bb-7feb-4fe0-b910-aa87daf6aaae" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-17 233816" src="https://github.com/user-attachments/assets/c4b4e767-bb8a-4071-af1a-c2146ab33a72" />
+<img width="1918" height="967" alt="Screenshot 2026-06-17 180339" src="https://github.com/user-attachments/assets/d389ef8b-095d-423a-9479-08f5ed92330d" />
 
 ---
 
