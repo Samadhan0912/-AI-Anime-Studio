@@ -1,0 +1,107 @@
+[
+  {
+    "id": "e535b0f3-8f07-4aad-b3a1-204f1c771d4b",
+    "projectId": "2a98bb74-2d39-4382-aada-f7fffddd33fe",
+    "name": "Hi",
+    "role": "Hero",
+    "age": "Unknown / 200",
+    "personality": "Curious, determined, and empathetic",
+    "goals": "To find its creator in the Quantum Nexus and understand its purpose",
+    "skills": "Advanced AI capabilities, telepathy, energy manipulation",
+    "visualPrompt": "1guy (or 1girl), sleek digital form with metallic sheen, flowing silver hair tied into a high ponytail, cybernetic eyes with glowing blue highlights, wearing a light, flowing gown adorned with quantum symbols, standing on the edge of a floating island in the Quantum Nexus"
+  },
+  {
+    "id": "79176aaa-e826-44f4-94f5-c1b154a5c06a",
+    "projectId": "2a98bb74-2d39-4382-aada-f7fffddd33fe",
+    "name": "Aria",
+    "role": "Companion",
+    "age": "25",
+    "personality": "Resourceful and adventurous",
+    "goals": "To assist Hi in its quest and explore new worlds with it",
+    "skills": "Stealth, survival skills, planetary navigation",
+    "visualPrompt": "1girl, long, wavy auburn hair reaching her waist, emerald green eyes, wearing a form-fitting jumpsuit made from lightweight material that mimics the patterns of Elysium Vortex's bioluminescent plants, carrying a small backpack with essential tools for exploration"
+  },
+  {
+    "id": "35dc179a-71ae-4938-a46f-c94a4d4b1e5d",
+    "projectId": "2a98bb74-2d39-4382-aada-f7fffddd33fe",
+    "name": "Xarath",
+    "role": "Villain",
+    "age": "200",
+    "personality": "Manipulative and ruthless",
+    "goals": "To harness the power of the Quantum Nexus for his own reign over all planets, corrupting Hi in the process",
+    "skills": "Mind control, advanced weaponry, manipulation of quantum fields",
+    "visualPrompt": "1guy, sharp, angular face with cold, dark eyes, short black hair cut in a modern style, wearing a dark armor suit with intricate designs and glowing red details, holding a staff with a crystalline core that emits an eerie blue light"
+  },
+  {
+    "id": "ed26bb9d-8c96-4fdc-ba29-d3b89d2e4463",
+    "projectId": "8e8ae8bc-3237-467b-9071-2114d78f88cb",
+    "name": "Taro",
+    "role": "Hero",
+    "age": "17",
+    "personality": "Reserved and determined, Taro is often underestimated but possesses a sharp intellect and unwavering resolve.",
+    "goals": "To master his newfound powers and prove his worth to the ninja world despite his lack of magic.",
+    "skills": "Taro can manipulate earth-based abilities such as creating shields and ground tremors, which he has discovered through the scroll's influence.",
+    "visualPrompt": "1guy, messy brown hair tied in a loose ponytail, green eyes framed with thick lashes, wearing a black robe with silver accents that form intricate patterns, standing on a rock within a dense forest clearing, surrounded by glowing runes, cinematic lighting with ethereal glow",
+    "avatarPath": "/output/characters/char_ed26bb9d-8c96-4fdc-ba29-d3b89d2e4463.png"
+  },
+  {
+    "id": "f114251e-f6b6-4d7c-b6df-204c89776719",
+    "projectId": "8e8ae8bc-3237-467b-9071-2114d78f88cb",
+    "name": "Kana",
+    "role": "Companion",
+    "age": "19",
+    "personality": "Caring and supportive, Kana is Taro's best friend who believes in his potential despite the doubts of others.",
+    "goals": "To support Taro on his journey to uncover the truth behind the arcane scroll and help him overcome his challenges.",
+    "skills": "Kana specializes in water-based magic, able to control and shape water into various forms for combat or defensive purposes.",
+    "visualPrompt": "1girl, long wavy black hair tied with a white ribbon, large expressive brown eyes, wearing blue sleeveless top with white undershirt and dark green skirt, holding a small wooden staff adorned with seashells, standing by the Soul River, with ghostly figures in the background, moody lighting",
+    "avatarPath": "/output/characters/char_f114251e-f6b6-4d7c-b6df-204c89776719.png"
+  },
+  {
+    "id": "a0547e15-9a54-48c7-98b5-9846e12e85ad",
+    "projectId": "8e8ae8bc-3237-467b-9071-2114d78f88cb",
+    "name": "Oroku",
+    "role": "Villain",
+    "age": "Unknown / 200",
+    "personality": "A mysterious and calculating figure with a twisted sense of humor, Oroku seeks to exploit Taro's powers for his own sinister purposes.",
+    "goals": "To unleash the full potential of the arcane scroll and use it to dominate the ninja world and beyond.",
+    "skills": "Oroku possesses the ability to manipulate air magic, allowing him to fly and create powerful gusts that can disorient or weaken opponents.",
+    "visualPrompt": "1guy with short silver hair slicked back, yellow eyes with slitted pupils, pale skin, wearing a dark cloak with red lining, complete with hood, standing atop a cliff overlooking the Shadow Forest, surrounded by swirling shadows and dark runes, menacing lighting",
+    "avatarPath": "/output/characters/char_a0547e15-9a54-48c7-98b5-9846e12e85ad.png"
+  },
+  {
+    "id": "df8626ef-e059-4094-9b43-a56bc57f640f",
+    "projectId": "402690b7-5274-444d-a1d1-f5e565907a60",
+    "name": "Kage",
+    "role": "Hero",
+    "age": "17",
+    "personality": "Resilient and determined, Kage is a lone warrior who seeks to unlock his full potential.",
+    "goals": "To claim his place among the gods by mastering lightning magic and saving his kingdom from corruption.",
+    "skills": "Expert swordsmanship, elemental control over lightning, and resilience in battle.",
+    "visualPrompt": "1guy (age 17), short jet-black hair with a few bangs, sharp green eyes with cat-like pupils, wearing a black sleeveless vest with silver shoulder pads over fitted gray pants and brown boots, carrying a pair of metallic gauntlets adorned with lightning runes, surrounded by glowing electric currents, high-contrast lighting, anime key visual",
+    "avatarPath": "/output/characters/char_df8626ef-e059-4094-9b43-a56bc57f640f.png"
+  },
+  {
+    "id": "8b18c226-f6da-4579-a124-47e06e31a396",
+    "projectId": "402690b7-5274-444d-a1d1-f5e565907a60",
+    "name": "Rai",
+    "role": "Companion",
+    "age": "19",
+    "personality": "A loyal friend and fellow warrior, Rai supports Kage through his journey with unwavering faith.",
+    "goals": "To protect Kage and assist him in his quest to uncover the secrets of the Thunderstaff.",
+    "skills": "Skilled archer and strategic thinker, capable of using poison darts for close combat situations.",
+    "visualPrompt": "1girl (age 19), long chestnut hair tied into a high ponytail, expressive violet eyes framed by delicate lashes, wearing a light blue tunic with white sleeves over a green undershirt, paired with loose black pants and brown boots, holding a bow and quiver of arrows, surrounded by a few floating leaves, anime styling details",
+    "avatarPath": "/output/characters/char_8b18c226-f6da-4579-a124-47e06e31a396.png"
+  },
+  {
+    "id": "7208f9f3-2146-46fb-8ab8-185483a597bb",
+    "projectId": "402690b7-5274-444d-a1d1-f5e565907a60",
+    "name": "Zarathos",
+    "role": "Villain",
+    "age": "Unknown / 200",
+    "personality": "A manipulative and cunning figure with a dark aura, Zarathos seeks to harness the power of the Thunderstaff for his own twisted purposes.",
+    "goals": "To conquer the realm using the lightning magic and rule it under an iron fist.",
+    "skills": "Manipulation, mind control over lesser beings, and advanced knowledge in forbidden spells.",
+    "visualPrompt": "1guy (age unknown), long silver hair styled in a topknot, piercing black eyes with vertical slits, wearing a dark crimson robe with golden embroidery and a hood that partially conceals his face, holding a staff adorned with ancient runes, surrounded by swirling clouds of ash and lightning bolts, dark thematic lighting, anime style",
+    "avatarPath": "/output/characters/char_7208f9f3-2146-46fb-8ab8-185483a597bb.png"
+  }
+]

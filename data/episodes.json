@@ -1,0 +1,246 @@
+[
+  {
+    "id": "8009aa78-8a57-4af9-b7e3-43cce657120a",
+    "projectId": "2a98bb74-2d39-4382-aada-f7fffddd33fe",
+    "episodeNumber": 1,
+    "title": "The Search Begins",
+    "summary": "Hi embarks on his quest to find his creator while encountering Aria and Xarath.",
+    "scenes": [
+      {
+        "sceneNumber": 1,
+        "setting": "Quantum Nexus",
+        "visualDescription": "Hi stands at the edge of a floating island, surrounded by shimmering portals that pulse with quantum energy. Aria, standing next to him, has her hand outstretched as if offering support.",
+        "dialogue": [
+          {
+            "speaker": "Hi",
+            "text": "Aria, do you think we'll find answers here?",
+            "audioPath": "/output/audio/voice_8009aa78-8a57-4af9-b7e3-43cce657120a_s1_d0.wav"
+          },
+          {
+            "speaker": "Aria",
+            "text": "I believe in us, Hi. Together, nothing can stand against our curiosity.",
+            "audioPath": "/output/audio/voice_8009aa78-8a57-4af9-b7e3-43cce657120a_s1_d1.wav"
+          }
+        ]
+      },
+      {
+        "sceneNumber": 2,
+        "setting": "Quantum Nexus",
+        "visualDescription": "Hi and Aria walk through a portal into the swirling vortex, leading to a new floating island filled with alien beings and various technologies. Xarath is seen observing them from afar, his eyes never leaving Hi.",
+        "dialogue": [
+          {
+            "speaker": "Xarath",
+            "text": "They seem promising... but I need to keep an eye on him.",
+            "audioPath": "/output/audio/voice_8009aa78-8a57-4af9-b7e3-43cce657120a_s2_d0.wav"
+          }
+        ]
+      },
+      {
+        "sceneNumber": 3,
+        "setting": "Elysium Vortex",
+        "visualDescription": "Hi and Aria land gently in the tranquil oasis, surrounded by glowing flora and fauna. They are greeted by a small group of beings who appear to be meditating near a massive bioluminescent pool.",
+        "dialogue": [
+          {
+            "speaker": "Aria",
+            "text": "Hello there, we're just passing through seeking knowledge.",
+            "audioPath": "/output/audio/voice_8009aa78-8a57-4af9-b7e3-43cce657120a_s3_d0.wav"
+          },
+          {
+            "speaker": "Beings",
+            "text": "Greetings, travelers. The essence of life lies within this pool. Perhaps it holds the answers you seek.",
+            "audioPath": "/output/audio/voice_8009aa78-8a57-4af9-b7e3-43cce657120a_s3_d1.wav"
+          }
+        ]
+      },
+      {
+        "sceneNumber": 4,
+        "setting": "Quantum Nexus",
+        "visualDescription": "Hi and Aria return to their floating island, facing Xarath who has now approached them. He stands in front of a portal, his staff glowing faintly.",
+        "dialogue": [
+          {
+            "speaker": "Xarath",
+            "text": "You two should be wary. Not everything in this universe is what it seems.",
+            "audioPath": "/output/audio/voice_8009aa78-8a57-4af9-b7e3-43cce657120a_s4_d0.wav"
+          },
+          {
+            "speaker": "Hi",
+            "text": "We're not afraid, Xarath. We seek the truth behind our existence.",
+            "audioPath": "/output/audio/voice_8009aa78-8a57-4af9-b7e3-43cce657120a_s4_d1.wav"
+          },
+          {
+            "speaker": "Aria",
+            "text": "And we won't let anyone stand in our way.",
+            "audioPath": "/output/audio/voice_8009aa78-8a57-4af9-b7e3-43cce657120a_s4_d2.wav"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-06-17T08:07:52.085Z"
+  },
+  {
+    "id": "884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3",
+    "projectId": "8e8ae8bc-3237-467b-9071-2114d78f88cb",
+    "episodeNumber": 2,
+    "title": "The Awakening Continues",
+    "summary": "Taro learns more about his new powers in the Soul River, while Kana searches for clues to help him understand his abilities better.",
+    "scenes": [
+      {
+        "sceneNumber": 1,
+        "setting": "Soul River",
+        "visualDescription": "The river's surface shimmers with an ethereal glow, casting a silvery light around Kana. Glowing runes can be seen etched into the water's edge. Kana stands by the riverbank, her staff pointing towards the swirling liquid.",
+        "dialogue": [
+          {
+            "speaker": "Kana",
+            "text": "Taro... I found something that might help us understand you better.",
+            "audioPath": "/output/audio/voice_884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3_s1_d0.wav"
+          },
+          {
+            "speaker": "Kana",
+            "text": "These runes seem to resonate with your magic. Maybe they can guide us.",
+            "audioPath": "/output/audio/voice_884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3_s1_d1.wav"
+          }
+        ],
+        "imagePath": "/output/scenes/scene_884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3_s1.png"
+      },
+      {
+        "sceneNumber": 2,
+        "setting": "The Hidden Academy",
+        "visualDescription": "Taro stands in the grand hall of the academy, surrounded by floating platforms and crystalline towers reflecting light from the windows. He practices casting a fireball spell, watching as it takes shape in his hands.",
+        "dialogue": [
+          {
+            "speaker": "Taro",
+            "text": "I can do this... I have to.",
+            "audioPath": "/output/audio/voice_884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3_s2_d0.wav"
+          },
+          {
+            "speaker": "Taro",
+            "text": "But how much longer until they find me?",
+            "audioPath": "/output/audio/voice_884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3_s2_d1.wav"
+          }
+        ],
+        "imagePath": "/output/scenes/scene_884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3_s2.png"
+      },
+      {
+        "sceneNumber": 3,
+        "setting": "Shadow Forest",
+        "visualDescription": "Taro stands in a dense forest clearing, glowing runes flickering around him. He tries to communicate with the spirit creatures, his voice soft and reverent.",
+        "dialogue": [
+          {
+            "speaker": "Taro",
+            "text": "I need your help... I don't understand what's happening.",
+            "audioPath": "/output/audio/voice_884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3_s3_d0.wav"
+          },
+          {
+            "speaker": "Spirit Creature",
+            "text": "You must accept your fate... For good or ill.",
+            "audioPath": "/output/audio/voice_884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3_s3_d1.wav"
+          }
+        ],
+        "imagePath": "/output/scenes/scene_884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3_s3.png"
+      },
+      {
+        "sceneNumber": 4,
+        "setting": "The Hidden Academy",
+        "visualDescription": "Oroku stands atop a cliff overlooking the Shadow Forest, his eyes scanning the area. He speaks to himself, muttering dark incantations.",
+        "dialogue": [
+          {
+            "speaker": "Oroku",
+            "text": "He's growing stronger... I must act now.",
+            "audioPath": "/output/audio/voice_884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3_s4_d0.wav"
+          },
+          {
+            "speaker": "Oroku",
+            "text": "The time for our plans has arrived...",
+            "audioPath": "/output/audio/voice_884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3_s4_d1.wav"
+          }
+        ],
+        "imagePath": "/output/scenes/scene_884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3_s4.png"
+      }
+    ],
+    "createdAt": "2026-06-17T12:27:02.383Z",
+    "videoPath": "/output/videos/episode_884aa6ac-9b6b-4b38-a881-b1bf3e9f8ac3.mp4"
+  },
+  {
+    "id": "ab8d78a0-34dc-410f-8f0c-55c728875a3d",
+    "projectId": "402690b7-5274-444d-a1d1-f5e565907a60",
+    "episodeNumber": 1,
+    "title": "The Path to Ascendancy",
+    "summary": "Kage, a young warrior on his journey to unlock his full potential, faces his first major challenge in the Shadow Forest. He encounters his companion Rai and meets the villain Zarathos, setting the stage for an epic battle atop Thunder Peak.",
+    "scenes": [
+      {
+        "sceneNumber": 1,
+        "setting": "Shadow Forest",
+        "visualDescription": "Kage navigates through the dense underbrush of the Shadow Forest. The trees loom tall and twisted, casting long shadows. Ancient ruins can be seen partially buried beneath the forest floor, hinting at a forgotten civilization.",
+        "dialogue": [
+          {
+            "speaker": "Kage",
+            "text": "I must find my way through here and discover more about myself.",
+            "audioPath": "/output/audio/voice_ab8d78a0-34dc-410f-8f0c-55c728875a3d_s1_d0.wav"
+          },
+          {
+            "speaker": "Rai",
+            "text": "Follow me. I sense something powerful in this place.",
+            "audioPath": "/output/audio/voice_ab8d78a0-34dc-410f-8f0c-55c728875a3d_s1_d1.wav"
+          }
+        ],
+        "imagePath": "/output/scenes/scene_ab8d78a0-34dc-410f-8f0c-55c728875a3d_s1.png"
+      },
+      {
+        "sceneNumber": 2,
+        "setting": "Shadow Forest",
+        "visualDescription": "Kage and Rai find themselves face-to-face with Zarathos, who is standing amidst the ruins, his staff emitting a faint glow. The atmosphere is tense, filled with the sound of crackling lightning and distant thunder.",
+        "dialogue": [
+          {
+            "speaker": "Zarathos",
+            "text": "You cannot escape your destiny, Kage.",
+            "audioPath": "/output/audio/voice_ab8d78a0-34dc-410f-8f0c-55c728875a3d_s2_d0.wav"
+          },
+          {
+            "speaker": "Kage",
+            "text": "What do you want from me?",
+            "audioPath": "/output/audio/voice_ab8d78a0-34dc-410f-8f0c-55c728875a3d_s2_d1.wav"
+          }
+        ],
+        "imagePath": "/output/scenes/scene_ab8d78a0-34dc-410f-8f0c-55c728875a3d_s2.png"
+      },
+      {
+        "sceneNumber": 3,
+        "setting": "Shadow Forest",
+        "visualDescription": "Zarathos and Kage engage in a brief, intense battle. The ground around them shakes as they clash with each other's powers. Rai observes from a distance, ready to intervene if necessary.",
+        "dialogue": [
+          {
+            "speaker": "Kage",
+            "text": "You have no right to challenge me!",
+            "audioPath": "/output/audio/voice_ab8d78a0-34dc-410f-8f0c-55c728875a3d_s3_d0.wav"
+          },
+          {
+            "speaker": "Zarathos",
+            "text": "Your time has come. Surrender now or face the consequences.",
+            "audioPath": "/output/audio/voice_ab8d78a0-34dc-410f-8f0c-55c728875a3d_s3_d1.wav"
+          }
+        ],
+        "imagePath": "/output/scenes/scene_ab8d78a0-34dc-410f-8f0c-55c728875a3d_s3.png"
+      },
+      {
+        "sceneNumber": 4,
+        "setting": "Thunder Peak",
+        "visualDescription": "Kage and Rai stand at the summit of Thunder Peak, watching as Zarathos disappears into a swirling cloud of ash. The sky darkens as they prepare for their final confrontation.",
+        "dialogue": [
+          {
+            "speaker": "Rai",
+            "text": "We need to go after him, Kage.",
+            "audioPath": "/output/audio/voice_ab8d78a0-34dc-410f-8f0c-55c728875a3d_s4_d0.wav"
+          },
+          {
+            "speaker": "Kage",
+            "text": "I won't let him take my path away from me. I'll find the power within myself and confront my inner demons.",
+            "audioPath": "/output/audio/voice_ab8d78a0-34dc-410f-8f0c-55c728875a3d_s4_d1.wav"
+          }
+        ],
+        "imagePath": "/output/scenes/scene_ab8d78a0-34dc-410f-8f0c-55c728875a3d_s4.png"
+      }
+    ],
+    "createdAt": "2026-06-17T17:55:54.706Z",
+    "videoPath": "/output/videos/episode_ab8d78a0-34dc-410f-8f0c-55c728875a3d.mp4"
+  }
+]
